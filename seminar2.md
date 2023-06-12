@@ -37,8 +37,8 @@ git log
 
 
 ## Цитаты
-
-
+bla-bla-bla
+bla-bla-bla
 
 
 
